@@ -1,6 +1,6 @@
 # Kirjalista
 
-Tekijä: Lilja Ketola
+Tekijä: Lilja Ketola AD1316
 
 Työn idea: Sovelluksen ideana on antaa lukuvinkkejä. Sinne on listattuna kirjoja eri kategorioittain. Omat suosikki kirjaehdotukset voi lisätä ”omat suosikit” listaan, josta niitä voi tarkastella jälkeenpäin Lisäksi sovellukseen voi jättää kommentin, jossa voi vaikka ehdottaa uuden kirjan lisäämisestä. Omat kommentit voi nähdä ”kommentit” osiosta.
 
